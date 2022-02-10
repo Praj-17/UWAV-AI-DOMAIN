@@ -7,6 +7,6 @@ STEP - 1 - Download the code, it will be a zip file , extractit
 STEP -2 - Go to the drive link and download those 3 files (Access only to .viit.ac.in domain). Thse are normal YOLOV3 setup files you can download it from their official site as well.
       LINK - https://drive.google.com/drive/folders/1SMV4hcdq_BwIX9lMvDK8jYkyTr7Im_IX?usp=sharing
       
-STEP -3 - Open the codes and it they have 3 File paths given in the very beggining of the code. so change my file location to yours.
+STEP -3 - Open the codes and it has 3 File paths given in the very beggining of the code. so change my file location to yours.
 
 
